@@ -53,6 +53,7 @@ func main() {
 		whatami(true)
 		whatami(69)
 		whatami("true")
+		// whatami(func(whatami))
 		
 
 }
