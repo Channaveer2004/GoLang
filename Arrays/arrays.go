@@ -17,4 +17,11 @@ func main(){
 
 	b = [...]int{100, 200, 300, 400, 500}
     fmt.Println("Redeclaring array b :", b)
+
+
+
+	var x,y,z int = 10,20,30;
+	fmt.Println(x)
+	fmt.Println(y)
+	fmt.Println(z)
 }
